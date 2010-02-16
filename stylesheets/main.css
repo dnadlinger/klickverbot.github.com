@@ -145,3 +145,13 @@ ul.bullet {
 #content a.icon:hover {
   text-decoration: underline;
 }
+
+abbr, span.caps {
+  letter-spacing: 0.06em;
+  margin-right: -0.06em;
+}
+
+abbr {
+  font-variant: small-caps;
+  text-transform: lowercase;
+}
