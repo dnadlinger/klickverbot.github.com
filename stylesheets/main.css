@@ -1,7 +1,7 @@
 #container {
   width: 960px;
   margin: 34px auto;
-  padding-top: 5px; /* Temporary hack. */
+  padding-top: 5px; /* For use with baseline grid. */
 }
 
 #pagenav {
@@ -70,7 +70,7 @@ a:link, a:hover, a:visited {
 }
 
 #content ul, ol {
-  margin: 30px;
+  margin: 30px 15px;
 
   /* To avoid extensive margins when the list spans multiple columns. */
   margin-right: 0;
@@ -112,7 +112,7 @@ span#current_release a {
 
 
 ul.bullet {
-  list-style: disc outside;
+  list-style: disc inside;
 }
 
 .columns2 {
