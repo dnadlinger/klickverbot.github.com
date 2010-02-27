@@ -1,0 +1,6 @@
+<td>dmd-1.056.log</td>
+<td class="pass borderleft"><a href="dmd-1.056.log/pass.html">4426</a></td>
+<td class="xfail"><a href="dmd-1.056.log/xfail.html">1911</a></td>
+<td class="fail"><a href="dmd-1.056.log/fail.html">434</a></td>
+<td class="xpass"><a href="dmd-1.056.log/xpass.html">255</a></td>
+<td class="error"><a href="dmd-1.056.log/error.html">13</a></td>
