@@ -43,11 +43,11 @@ h1 {
   width: 600px;
   text-align: right;
 
-  color: #222;
+  color: #111;
 }
 
 h2 a:link, h2 a:visited {
-  color: #888;
+  color: #eee;
 }
 
 #menu {
@@ -57,7 +57,7 @@ h2 a:link, h2 a:visited {
 
 #code {
   position: relative;
-  width: 220px;
+  width: 230px;
 }
 
 #code h2 {
